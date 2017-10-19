@@ -1,0 +1,16 @@
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\bin\x64\Debug\bell.exe.config
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\bin\x64\Debug\bell.exe
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\bin\x64\Debug\bell.pdb
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\bin\x64\Debug\bell.xml
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.About.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.about1.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.Form1.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.Jadwal.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.Login.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.MenuUtama.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\WindowsApplication1.User.resources
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\bell.vbproj.GenerateResource.Cache
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\bell.exe
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\bell.xml
+C:\Users\zilin\documents\visual studio 2010\Projects\bell\bell\obj\x64\Debug\bell.pdb
